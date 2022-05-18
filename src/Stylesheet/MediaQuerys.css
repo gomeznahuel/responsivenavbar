@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+  .header .navbar-mobile {
+    width: 95%;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem 0;
+    position: absolute;
+    top: 26%;
+  }
+
+  .header .navbar-mobile .navbar-mobile__item .navbar-mobile__link {
+    font-size: 2rem;
+    color: #121212;
+  }
+}

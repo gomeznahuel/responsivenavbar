@@ -1,0 +1,21 @@
+.navbar-desktop {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-desktop .navbar__item {
+  margin-left: 6rem;
+}
+
+.navbar-desktop .navbar__item .navbar__link {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #121212;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar-desktop .navbar__item .navbar__link:hover {
+  color: #fdfdfd;
+}

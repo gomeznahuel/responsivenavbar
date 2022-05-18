@@ -1,0 +1,10 @@
+.logo {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #121212;
+  transition: all 0.3s ease-in-out;
+}
+
+.logo:hover {
+  color: #fdfdfd;
+}
